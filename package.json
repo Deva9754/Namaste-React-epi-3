@@ -1,0 +1,15 @@
+{
+  "name": "devashish",
+  "version": "1.0.0",
+  "description": "namste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "\"jest\""
+  },
+  "keywords": [
+    "episode",
+    "3"
+  ],
+  "author": "owner",
+  "license": "ISC"
+}
