@@ -1,0 +1,9 @@
+.title{
+    color: white;
+}
+.searchBar{
+    color: black;
+}.ccss{
+    display: flex;
+    justify-content: space-between;
+}
